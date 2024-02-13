@@ -8,7 +8,9 @@ namespace BookStoreAppWinFrom.ViewModel
 {
     internal class SellerRepository
     {
+        public void Add()
+        {
 
-
+        }
     }
 }
