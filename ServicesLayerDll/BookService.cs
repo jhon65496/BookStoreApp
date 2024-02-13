@@ -9,7 +9,15 @@ namespace BookStoreAppWinFrom.ViewModel
 {
     internal class BookService
     {
+        public void Add()
+        {
 
+        }
+
+        public void Update()
+        {
+
+        }
 
     }
 }
