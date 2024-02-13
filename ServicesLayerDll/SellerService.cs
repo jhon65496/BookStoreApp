@@ -13,5 +13,10 @@ namespace BookStoreAppWinFrom.ViewModel
 
         }
 
+        public void Update()
+        {
+
+        }
+
     }
 }
