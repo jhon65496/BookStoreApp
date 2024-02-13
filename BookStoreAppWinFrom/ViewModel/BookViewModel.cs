@@ -19,5 +19,9 @@ namespace BookStoreAppWinFrom.ViewModel
 
         }
 
+        public void Delete()
+        {
+
+        }
     }
 }
